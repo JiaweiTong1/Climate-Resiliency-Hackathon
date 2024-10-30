@@ -1,4 +1,4 @@
-This Solidity smart contract, DisasterReliefFund, facilitates a transparent and secure system for managing donations intended for disaster relief efforts. It enables donors to contribute funds directly to approved beneficiaries, such as government bodies or verified NGOs, while ensuring accountability and tracking of donations.
+This Solidity smart contract, DisasterReliefFund, facilitates a transparent and secure system for managing donations intended for disaster relief efforts. It enables donors to contribute funds directly to approved beneficiaries while ensuring accountability and tracking of donations.
 
 Features
 1. Owner Control
